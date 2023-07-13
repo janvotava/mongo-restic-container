@@ -11,7 +11,7 @@ scripts/release.sh
 ## Usage with Helm
 
 ```bash
-helm install backupper https://janvotava.github.io/helm-charts/helm-cronjobs-1.0.2.tgz -f values.yaml
+helm install backupper https://janvotava.github.io/helm-charts/helm-cronjobs-1.0.3.tgz -f values.yaml
 ```
 
 ### values.yaml
